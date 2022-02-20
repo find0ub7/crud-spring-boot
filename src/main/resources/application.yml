@@ -1,4 +1,3 @@
-#spring.data.mongodb.uri: mongodb+srv://usertest:teste123@cluster0.1s71o.mongodb.net/db811?retryWrites=true&w=majority
 management.endpoints.web.exposure.include: '*'
 server:
   port: 8081
